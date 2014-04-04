@@ -1,0 +1,26 @@
+{
+  "name": "quote",
+  "version": "0.10.26",
+  "description": "NWEN304 lab2",
+  "main": "quote.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hassany88/NWEN304Lab2Ex.git"
+  },
+  "keywords": [
+    "exercise"
+  ],
+  "author": "Hassan Almitib",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hassany88/NWEN304Lab2Ex/issues"
+  },
+  "homepage": "https://github.com/hassany88/NWEN304Lab2Ex",
+  "dependencies": {
+    "logfmt": "^1.1.2",
+    "express": "^3.5.1"
+  }
+}
